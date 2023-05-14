@@ -1,2 +1,2 @@
 # LLMCY
-ChatCY is based by ChiYong's LLMs.
+LLMCY is based by ChiYong's LLMs for ALL NLP TASKS.
